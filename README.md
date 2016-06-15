@@ -1,2 +1,2 @@
 # Sushant
-This repository Created to Upload my Projects
+This repository Created to upload my Android Projects
